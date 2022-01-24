@@ -1,11 +1,3 @@
 {
-    "/js/direct.js": "/js/direct.js",
-    "/js/lazyload.js": "/js/lazyload.js",
-    "/js/root.js": "/js/root.js",
-    "/js/mi_module_1.js": "/js/mi_module_1.js",
-    "/js/mi_module_2.js": "/js/mi_module_2.js",
-    "/js/ll_module_1.js": "/js/ll_module_1.js",
-    "/js/ll_module_2.js": "/js/ll_module_2.js",
-    "/js/ll_module_3.js": "/js/ll_module_3.js",
-    "/js/ll_module_4.js": "/js/ll_module_4.js"
+    "/js/direct.js": "/js/direct.js"
 }

@@ -42,6 +42,5 @@
     <h3>Test Area</h3>
     <code>// component-1</code>
 
-    <component-1></component-1>
-</div>
+    </div>
 @endsection

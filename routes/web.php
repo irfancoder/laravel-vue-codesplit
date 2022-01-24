@@ -16,10 +16,3 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('direct/index');
 });
-Route::get('/lazyload', function () {
-    return view('lazyload/index');
-});
-
-Route::get('/manual', function () {
-    return view('manual/server/index');
-});
